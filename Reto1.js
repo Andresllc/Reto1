@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-
-=======
 let suma = (n1,n2,n3 =0) => {return n1 + n2 + n3}
->>>>>>> rama2
 let resta= (n1,n2 =0) => {return n1 - n2}
 let divide= (n1,n2 =0) => {return n1 / n2}
 let multiplica= (n1,n2 =0) => {return n1 * n2}
